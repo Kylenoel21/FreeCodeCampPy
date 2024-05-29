@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1696139a-c08d-469f-b2fc-dfa051bd90a1" name="Changes" comment="project">
-      <change afterPath="$PROJECT_DIR$/Lists &amp; Tuples (5).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operators (2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python basics (1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Input (4).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/huhuhuh.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/FreeCodeCampPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FreeCodeCampPy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python basics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists &amp; Tuples (5).py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists &amp; Tuples (5).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +25,12 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kylenoel21/FreeCodeCampPy.git",
+    "accountId": "04829255-7fc4-4aeb-8be9-12e6b1c44c6e"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.venv/Data Types.py" root0="SKIP_INSPECTION" />
   </component>
@@ -111,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715977708975</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="project">
+      <option name="closed" value="true" />
+      <created>1717004015368</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717004015368</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

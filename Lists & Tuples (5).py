@@ -5,5 +5,6 @@ data = ['Dave', 42, True]
 
 emptylist = []
 
-print("Dave"
+print("Dave")
+print("hi")
 
