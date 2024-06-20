@@ -1,0 +1,3 @@
+.venv
+.env        #NEVER SHARE THIS STUFF., ITS LINKED TO UR ACC
+__pycache__

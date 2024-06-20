@@ -5,7 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1696139a-c08d-469f-b2fc-dfa051bd90a1" name="Changes" comment="day 1">
-      <change beforePath="$PROJECT_DIR$/Lists &amp; Tuples (5).py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists &amp; Tuples (5).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenges (16)/guess_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenges (16)/rps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes &amp; Objects (18).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Closures (12).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command Line Arguments (15).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries &amp; Sets(7).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions &amp; Erros (19).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Operations (22)/context" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Operations (22)/files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Operations (22)/more_names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Operations (22)/names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Project (23)/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Project (23)/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Project (23)/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Project (23)/static or styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Project (23)/templates/city-not-found.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Project (23)/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Project (23)/templates/weather.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Project (23)/weather.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions(9).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda &amp; Higher Order Functions (17).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists &amp; Tuples (6).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops(8).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules (14).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object Oriented Programming (20)/bank_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object Oriented Programming (20)/oop_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion (10).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scope (11).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User Input (5).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Venv &amp; PIP (21)/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Venv &amp; PIP (21)/Venv &amp; PIP notes .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Venv &amp; PIP (21)/weather.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FreeCodeCampPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FreeCodeCampPy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/Data Types (3)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/activate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/Scripts/activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/Scripts/deactivate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/deactivate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/Scripts/python.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/python.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/Scripts/pythonw.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/pythonw.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists &amp; Tuples (5).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators (2).py" beforeDir="false" afterPath="$PROJECT_DIR$/Operators (3).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python basics (1).py" beforeDir="false" afterPath="$PROJECT_DIR$/Python basics (2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User Input (4).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/huhuhuh.py" beforeDir="false" afterPath="$PROJECT_DIR$/Challenges (16)/Arcade (16).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +61,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -22,23 +69,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Kylenoel21"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kylenoel21&quot;
   }
-}]]></component>
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Kylenoel21/FreeCodeCampPy.git",
-    "accountId": "04829255-7fc4-4aeb-8be9-12e6b1c44c6e"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kylenoel21/FreeCodeCampPy.git&quot;,
+    &quot;accountId&quot;: &quot;04829255-7fc4-4aeb-8be9-12e6b1c44c6e&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/.venv/Data Types.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Venv &amp; PIP (21)/weather.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -50,21 +97,65 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in Classes &amp; Objects (18).py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Arcade (16).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Classes &amp; Objects (18).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Closures (12).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Command Line Arguments (15).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Data Types (3).executor&quot;: &quot;Run&quot;,
     &quot;Python.Data Types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dictionaries &amp; Sets(6).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exceptions &amp; Erros (19).executor&quot;: &quot;Run&quot;,
+    &quot;Python.F-Strings (13).executor&quot;: &quot;Run&quot;,
+    &quot;Python.FreeCodeCampPy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Functions(9).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Guess_Number (16).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lambda &amp; Higher Order Functions (17).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lists &amp; Tuples (5).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops(7).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Modules (14).executor&quot;: &quot;Run&quot;,
     &quot;Python.Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PycharmProjects.executor&quot;: &quot;Run&quot;,
     &quot;Python.Python basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Recursion (10).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scope (11).executor&quot;: &quot;Run&quot;,
     &quot;Python.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.User Input (4).executor&quot;: &quot;Run&quot;,
+    &quot;Python.User Input (5).executor&quot;: &quot;Run&quot;,
     &quot;Python.User Input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.activate_this.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bank_account.executor&quot;: &quot;Run&quot;,
+    &quot;Python.files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guess_number (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.guess_number .executor&quot;: &quot;Run&quot;,
+    &quot;Python.guess_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oop_project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.server.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tokenize.executor&quot;: &quot;Run&quot;,
+    &quot;Python.weather.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowTerminal.ShowToolbar&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bossm/PycharmProjects&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bossm\PycharmProjects\FreeCodeCampPy\Final Project (23)\static" />
+      <recent name="C:\Users\bossm\PycharmProjects\FreeCodeCampPy\Final Project (23)" />
+      <recent name="C:\Users\bossm\PycharmProjects\FreeCodeCampPy\Venv &amp; PIP (21)" />
+      <recent name="C:\Users\bossm\PycharmProjects\FreeCodeCampPy" />
+      <recent name="C:\Users\bossm\PycharmProjects\FreeCodeCampPy\oh" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="PycharmProjects" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="FreeCodeCampPy" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,7 +169,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.." />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,6 +178,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="guess_number (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FreeCodeCampPy" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenges (16)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenges (16)/guess_number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="guess_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FreeCodeCampPy" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenges (16)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\bossm\PycharmProjects\FreeCodeCampPy\Challenges (16)\guess_number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.guess_number (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -131,8 +271,19 @@
       <option name="project" value="LOCAL" />
       <updated>1717004417472</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day 1">
+      <option name="closed" value="true" />
+      <created>1717004499208</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717004499208</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
